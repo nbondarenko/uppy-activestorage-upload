@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@rails/activestorage": "*",
-    "@uppy/core": "*"
+    "@uppy/core": "^3.0.4"
   },
   "peerDependencies": {
     "@rails/activestorage": "*",
